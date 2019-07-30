@@ -1,8 +1,10 @@
-<img alt="Logo" src="http://coderslab.pl/svg/logo-coderslab.svg" width="400">
 
-# Game of Life
+# Project Game of Life
 
-:seedling: :seedling: :seedling:
+project was made based on instructions given at Coders Lab (below in Polish) 
+
+
+
 
 Celem tego ćwiczenia jest napisanie prostej aplikacji w JavaScripcie, która pokazywać będzie interaktywną animację opartą o jeden z pierwszych i najbardziej znanych przykładów automatu komórkowego, wymyślony w roku 1970 przez brytyjskiego matematyka Johna Conwaya. Będziemy pisać w czystym JavaScripcie, opierając się na założeniach programowania obiektowego.
 
@@ -150,7 +152,3 @@ Pamiętaj, aby Twój obiekt wykonywał wszystkie niezbędne kroki początkowe (d
 Jeśli chcesz, możesz zmienić event za pomocą którego użytkownik ożywia i uśmierca komórki – kliknięcie myszką będzie dokładne, ale trudne w użyciu, zamiast tego możesz użyć najechania myszką. 
 
 Jeśli zaś masz jeszcze siłę do dalszego działania, możesz dowolnie usprawnić działanie Twojej aplikacji (np. dodając efekty wizualne lub dźwiękowe). 
-
-**Gratulacje!**
-
-**Repozytorium z ćwiczeniami zostanie usunięte 2 tygodnie po zakończeniu kursu. Spowoduje to też usunięcie wszystkich forków, które są zrobione z tego repozytorium.**
